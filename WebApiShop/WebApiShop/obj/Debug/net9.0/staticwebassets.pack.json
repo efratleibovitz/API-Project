@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Home.html",
+      "PackagePath": "staticwebassets\\Home.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Home.js",
+      "PackagePath": "staticwebassets\\Home.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Update.html",
+      "PackagePath": "staticwebassets\\Update.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Update.js",
+      "PackagePath": "staticwebassets\\Update.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebApiShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebApiShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.WebApiShop.props",
+      "PackagePath": "build\\WebApiShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApiShop.props",
+      "PackagePath": "buildMultiTargeting\\WebApiShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.WebApiShop.props",
+      "PackagePath": "buildTransitive\\WebApiShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

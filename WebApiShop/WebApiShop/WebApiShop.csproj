@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\User\Desktop\לימודים\יד\web-api\lesson4\WebApiShop\WebApiShop\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\User\Desktop\לימודים\יד\web-api\lesson4\WebApiShop\WebApiShop\.editorconfig" />
+  </ItemGroup>
+
+</Project>

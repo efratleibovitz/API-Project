@@ -1,0 +1,1382 @@
+{
+  "Version": 1,
+  "Hash": "QLNScLQz7yJhg4s6yfxm9mc8/Et1htXNgZpL50vtjqo=",
+  "Source": "WebApiShop",
+  "BasePath": "_content/WebApiShop",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiShop\\wwwroot",
+      "Source": "WebApiShop",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\",
+      "BasePath": "_content/WebApiShop",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\2q16ecgxxw-pw5dq3vsad.gz",
+      "SourceId": "WebApiShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebApiShop",
+      "RelativePath": "Update#[.{fingerprint=pw5dq3vsad}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Update.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "1iqi8hdbzf",
+      "Integrity": "qdJOeut/6ENaI3L1q1FvbyMo0TVSO5Dt7QQYbm9GmMo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Update.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\8tp2s94mak-p0vsv4xayi.gz",
+      "SourceId": "WebApiShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebApiShop",
+      "RelativePath": "Home#[.{fingerprint=p0vsv4xayi}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Home.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "z08rw9jeoq",
+      "Integrity": "nQqDcAA78dK99MEmNYhecq9WNiilFA+CZx2bJoVJ9Bc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Home.html"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\i73xefh3pz-4scld3d0gc.gz",
+      "SourceId": "WebApiShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebApiShop",
+      "RelativePath": "Update#[.{fingerprint=4scld3d0gc}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Update.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gpoieyiaee",
+      "Integrity": "bHwODNeWeGDQS/zKvVc0C2+xskuubkxD3T4Fgm17rFY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Update.html"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\n804u8jfsy-ngb7204rge.gz",
+      "SourceId": "WebApiShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebApiShop",
+      "RelativePath": "Home#[.{fingerprint=ngb7204rge}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Home.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "pnsxhkvlva",
+      "Integrity": "VcCFFnr40Dtgtw6IXxTlF3SCuz+o2Fw4iCEn7DAsEk4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Home.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Home.html",
+      "SourceId": "WebApiShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\",
+      "BasePath": "_content/WebApiShop",
+      "RelativePath": "Home#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p0vsv4xayi",
+      "Integrity": "99Qcn9NIzuPez4AQg7/u/bhwVjkOqeLAEaP+I5qyGEY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Home.html"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Home.js",
+      "SourceId": "WebApiShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\",
+      "BasePath": "_content/WebApiShop",
+      "RelativePath": "Home#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ngb7204rge",
+      "Integrity": "x3e95lxf+FR4Aj0NWdINwat8hpKbuExEcHo8U0ECbFA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Home.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Update.html",
+      "SourceId": "WebApiShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\",
+      "BasePath": "_content/WebApiShop",
+      "RelativePath": "Update#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4scld3d0gc",
+      "Integrity": "9BwgdqnHtjA0N3+PVluf9/3XoxtndIS8qph1F3Q5g3Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Update.html"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Update.js",
+      "SourceId": "WebApiShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\",
+      "BasePath": "_content/WebApiShop",
+      "RelativePath": "Update#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pw5dq3vsad",
+      "Integrity": "KZWDpRiA69sNziFNPd2oc8wfKTiLUtHwh1Xqi46DKtw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Update.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Home.html",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\8tp2s94mak-p0vsv4xayi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001824817518"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "547"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nQqDcAA78dK99MEmNYhecq9WNiilFA+CZx2bJoVJ9Bc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 19:28:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"99Qcn9NIzuPez4AQg7/u/bhwVjkOqeLAEaP+I5qyGEY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-99Qcn9NIzuPez4AQg7/u/bhwVjkOqeLAEaP+I5qyGEY="
+        }
+      ]
+    },
+    {
+      "Route": "Home.html",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1786"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"99Qcn9NIzuPez4AQg7/u/bhwVjkOqeLAEaP+I5qyGEY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 19:28:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-99Qcn9NIzuPez4AQg7/u/bhwVjkOqeLAEaP+I5qyGEY="
+        }
+      ]
+    },
+    {
+      "Route": "Home.html.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\8tp2s94mak-p0vsv4xayi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nQqDcAA78dK99MEmNYhecq9WNiilFA+CZx2bJoVJ9Bc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 19:28:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nQqDcAA78dK99MEmNYhecq9WNiilFA+CZx2bJoVJ9Bc="
+        }
+      ]
+    },
+    {
+      "Route": "Home.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\n804u8jfsy-ngb7204rge.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001610305958"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "620"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VcCFFnr40Dtgtw6IXxTlF3SCuz+o2Fw4iCEn7DAsEk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 19:28:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"x3e95lxf+FR4Aj0NWdINwat8hpKbuExEcHo8U0ECbFA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x3e95lxf+FR4Aj0NWdINwat8hpKbuExEcHo8U0ECbFA="
+        }
+      ]
+    },
+    {
+      "Route": "Home.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Home.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x3e95lxf+FR4Aj0NWdINwat8hpKbuExEcHo8U0ECbFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 19:28:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x3e95lxf+FR4Aj0NWdINwat8hpKbuExEcHo8U0ECbFA="
+        }
+      ]
+    },
+    {
+      "Route": "Home.js.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\n804u8jfsy-ngb7204rge.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VcCFFnr40Dtgtw6IXxTlF3SCuz+o2Fw4iCEn7DAsEk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 19:28:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VcCFFnr40Dtgtw6IXxTlF3SCuz+o2Fw4iCEn7DAsEk4="
+        }
+      ]
+    },
+    {
+      "Route": "Home.ngb7204rge.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\n804u8jfsy-ngb7204rge.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001610305958"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "620"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VcCFFnr40Dtgtw6IXxTlF3SCuz+o2Fw4iCEn7DAsEk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 19:28:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"x3e95lxf+FR4Aj0NWdINwat8hpKbuExEcHo8U0ECbFA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ngb7204rge"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x3e95lxf+FR4Aj0NWdINwat8hpKbuExEcHo8U0ECbFA="
+        }
+      ]
+    },
+    {
+      "Route": "Home.ngb7204rge.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Home.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x3e95lxf+FR4Aj0NWdINwat8hpKbuExEcHo8U0ECbFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 19:28:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ngb7204rge"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x3e95lxf+FR4Aj0NWdINwat8hpKbuExEcHo8U0ECbFA="
+        }
+      ]
+    },
+    {
+      "Route": "Home.ngb7204rge.js.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\n804u8jfsy-ngb7204rge.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VcCFFnr40Dtgtw6IXxTlF3SCuz+o2Fw4iCEn7DAsEk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 19:28:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ngb7204rge"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VcCFFnr40Dtgtw6IXxTlF3SCuz+o2Fw4iCEn7DAsEk4="
+        }
+      ]
+    },
+    {
+      "Route": "Home.p0vsv4xayi.html",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\8tp2s94mak-p0vsv4xayi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001824817518"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "547"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nQqDcAA78dK99MEmNYhecq9WNiilFA+CZx2bJoVJ9Bc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 19:28:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"99Qcn9NIzuPez4AQg7/u/bhwVjkOqeLAEaP+I5qyGEY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p0vsv4xayi"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-99Qcn9NIzuPez4AQg7/u/bhwVjkOqeLAEaP+I5qyGEY="
+        }
+      ]
+    },
+    {
+      "Route": "Home.p0vsv4xayi.html",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1786"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"99Qcn9NIzuPez4AQg7/u/bhwVjkOqeLAEaP+I5qyGEY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 19:28:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p0vsv4xayi"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-99Qcn9NIzuPez4AQg7/u/bhwVjkOqeLAEaP+I5qyGEY="
+        }
+      ]
+    },
+    {
+      "Route": "Home.p0vsv4xayi.html.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\8tp2s94mak-p0vsv4xayi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nQqDcAA78dK99MEmNYhecq9WNiilFA+CZx2bJoVJ9Bc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 19:28:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p0vsv4xayi"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nQqDcAA78dK99MEmNYhecq9WNiilFA+CZx2bJoVJ9Bc="
+        }
+      ]
+    },
+    {
+      "Route": "Update.4scld3d0gc.html",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\i73xefh3pz-4scld3d0gc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "499"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bHwODNeWeGDQS/zKvVc0C2+xskuubkxD3T4Fgm17rFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 18:54:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9BwgdqnHtjA0N3+PVluf9/3XoxtndIS8qph1F3Q5g3Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4scld3d0gc"
+        },
+        {
+          "Name": "label",
+          "Value": "Update.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9BwgdqnHtjA0N3+PVluf9/3XoxtndIS8qph1F3Q5g3Y="
+        }
+      ]
+    },
+    {
+      "Route": "Update.4scld3d0gc.html",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Update.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1158"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9BwgdqnHtjA0N3+PVluf9/3XoxtndIS8qph1F3Q5g3Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 18:54:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4scld3d0gc"
+        },
+        {
+          "Name": "label",
+          "Value": "Update.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9BwgdqnHtjA0N3+PVluf9/3XoxtndIS8qph1F3Q5g3Y="
+        }
+      ]
+    },
+    {
+      "Route": "Update.4scld3d0gc.html.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\i73xefh3pz-4scld3d0gc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bHwODNeWeGDQS/zKvVc0C2+xskuubkxD3T4Fgm17rFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 18:54:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4scld3d0gc"
+        },
+        {
+          "Name": "label",
+          "Value": "Update.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bHwODNeWeGDQS/zKvVc0C2+xskuubkxD3T4Fgm17rFY="
+        }
+      ]
+    },
+    {
+      "Route": "Update.html",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\i73xefh3pz-4scld3d0gc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "499"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bHwODNeWeGDQS/zKvVc0C2+xskuubkxD3T4Fgm17rFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 18:54:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9BwgdqnHtjA0N3+PVluf9/3XoxtndIS8qph1F3Q5g3Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9BwgdqnHtjA0N3+PVluf9/3XoxtndIS8qph1F3Q5g3Y="
+        }
+      ]
+    },
+    {
+      "Route": "Update.html",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Update.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1158"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9BwgdqnHtjA0N3+PVluf9/3XoxtndIS8qph1F3Q5g3Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 18:54:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9BwgdqnHtjA0N3+PVluf9/3XoxtndIS8qph1F3Q5g3Y="
+        }
+      ]
+    },
+    {
+      "Route": "Update.html.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\i73xefh3pz-4scld3d0gc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bHwODNeWeGDQS/zKvVc0C2+xskuubkxD3T4Fgm17rFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 18:54:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bHwODNeWeGDQS/zKvVc0C2+xskuubkxD3T4Fgm17rFY="
+        }
+      ]
+    },
+    {
+      "Route": "Update.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\2q16ecgxxw-pw5dq3vsad.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001672240803"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "597"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdJOeut/6ENaI3L1q1FvbyMo0TVSO5Dt7QQYbm9GmMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 20:02:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KZWDpRiA69sNziFNPd2oc8wfKTiLUtHwh1Xqi46DKtw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KZWDpRiA69sNziFNPd2oc8wfKTiLUtHwh1Xqi46DKtw="
+        }
+      ]
+    },
+    {
+      "Route": "Update.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Update.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KZWDpRiA69sNziFNPd2oc8wfKTiLUtHwh1Xqi46DKtw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 20:02:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KZWDpRiA69sNziFNPd2oc8wfKTiLUtHwh1Xqi46DKtw="
+        }
+      ]
+    },
+    {
+      "Route": "Update.js.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\2q16ecgxxw-pw5dq3vsad.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdJOeut/6ENaI3L1q1FvbyMo0TVSO5Dt7QQYbm9GmMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 20:02:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdJOeut/6ENaI3L1q1FvbyMo0TVSO5Dt7QQYbm9GmMo="
+        }
+      ]
+    },
+    {
+      "Route": "Update.pw5dq3vsad.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\2q16ecgxxw-pw5dq3vsad.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001672240803"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "597"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdJOeut/6ENaI3L1q1FvbyMo0TVSO5Dt7QQYbm9GmMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 20:02:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KZWDpRiA69sNziFNPd2oc8wfKTiLUtHwh1Xqi46DKtw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pw5dq3vsad"
+        },
+        {
+          "Name": "label",
+          "Value": "Update.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KZWDpRiA69sNziFNPd2oc8wfKTiLUtHwh1Xqi46DKtw="
+        }
+      ]
+    },
+    {
+      "Route": "Update.pw5dq3vsad.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Update.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KZWDpRiA69sNziFNPd2oc8wfKTiLUtHwh1Xqi46DKtw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 20:02:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pw5dq3vsad"
+        },
+        {
+          "Name": "label",
+          "Value": "Update.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KZWDpRiA69sNziFNPd2oc8wfKTiLUtHwh1Xqi46DKtw="
+        }
+      ]
+    },
+    {
+      "Route": "Update.pw5dq3vsad.js.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\2q16ecgxxw-pw5dq3vsad.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdJOeut/6ENaI3L1q1FvbyMo0TVSO5Dt7QQYbm9GmMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 20:02:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pw5dq3vsad"
+        },
+        {
+          "Name": "label",
+          "Value": "Update.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdJOeut/6ENaI3L1q1FvbyMo0TVSO5Dt7QQYbm9GmMo="
+        }
+      ]
+    }
+  ]
+}

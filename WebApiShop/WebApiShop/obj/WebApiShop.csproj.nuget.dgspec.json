@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\WebApiShop.csproj": {}
+    "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\WebApiShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\WebApiShop.csproj": {
+    "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\WebApiShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\WebApiShop.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\WebApiShop.csproj",
         "projectName": "WebApiShop",
-        "projectPath": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\WebApiShop.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\WebApiShop.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

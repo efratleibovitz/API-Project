@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QLNScLQz7yJhg4s6yfxm9mc8/Et1htXNgZpL50vtjqo=",
+  "Hash": "jDXEZtFw/L0cmcWaKPL1xW7u0kJVTfmTz5PQoa23Ims=",
   "Source": "WebApiShop",
   "BasePath": "_content/WebApiShop",
   "Mode": "Default",
@@ -10,38 +10,38 @@
     {
       "Name": "WebApiShop\\wwwroot",
       "Source": "WebApiShop",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\",
       "BasePath": "_content/WebApiShop",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\2q16ecgxxw-pw5dq3vsad.gz",
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\2q16ecgxxw-rh7ogy033a.gz",
       "SourceId": "WebApiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApiShop",
-      "RelativePath": "Update#[.{fingerprint=pw5dq3vsad}]?.js.gz",
+      "RelativePath": "Update#[.{fingerprint=rh7ogy033a}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Update.js",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\Update.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "1iqi8hdbzf",
-      "Integrity": "qdJOeut/6ENaI3L1q1FvbyMo0TVSO5Dt7QQYbm9GmMo=",
+      "Fingerprint": "isawxsvh24",
+      "Integrity": "ot81BfHeO9lmojdVyaNO3Fl1v1z4vYLPjSNOfjuUzdU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Update.js"
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\Update.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\8tp2s94mak-p0vsv4xayi.gz",
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\8tp2s94mak-p0vsv4xayi.gz",
       "SourceId": "WebApiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApiShop",
       "RelativePath": "Home#[.{fingerprint=p0vsv4xayi}]?.html.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Home.html",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\Home.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "z08rw9jeoq",
       "Integrity": "nQqDcAA78dK99MEmNYhecq9WNiilFA+CZx2bJoVJ9Bc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Home.html"
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\Home.html"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\i73xefh3pz-4scld3d0gc.gz",
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\i73xefh3pz-4scld3d0gc.gz",
       "SourceId": "WebApiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApiShop",
       "RelativePath": "Update#[.{fingerprint=4scld3d0gc}]?.html.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Update.html",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\Update.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "gpoieyiaee",
       "Integrity": "bHwODNeWeGDQS/zKvVc0C2+xskuubkxD3T4Fgm17rFY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Update.html"
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\Update.html"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\n804u8jfsy-ngb7204rge.gz",
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\n804u8jfsy-ngb7204rge.gz",
       "SourceId": "WebApiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApiShop",
       "RelativePath": "Home#[.{fingerprint=ngb7204rge}]?.js.gz",
       "AssetKind": "All",
@@ -91,20 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Home.js",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\Home.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "pnsxhkvlva",
       "Integrity": "VcCFFnr40Dtgtw6IXxTlF3SCuz+o2Fw4iCEn7DAsEk4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Home.js"
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\Home.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Home.html",
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\Home.html",
       "SourceId": "WebApiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\",
       "BasePath": "_content/WebApiShop",
       "RelativePath": "Home#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\Home.html"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Home.js",
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\Home.js",
       "SourceId": "WebApiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\",
       "BasePath": "_content/WebApiShop",
       "RelativePath": "Home#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\Home.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Update.html",
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\Update.html",
       "SourceId": "WebApiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\",
       "BasePath": "_content/WebApiShop",
       "RelativePath": "Update#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\Update.html"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Update.js",
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\Update.js",
       "SourceId": "WebApiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\",
       "BasePath": "_content/WebApiShop",
       "RelativePath": "Update#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -178,8 +178,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "pw5dq3vsad",
-      "Integrity": "KZWDpRiA69sNziFNPd2oc8wfKTiLUtHwh1Xqi46DKtw=",
+      "Fingerprint": "rh7ogy033a",
+      "Integrity": "ESwFuZie/P+g5IxmRxb/QqscUp3G4I4qoRucVlt8oUY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Update.js"
@@ -188,7 +188,7 @@
   "Endpoints": [
     {
       "Route": "Home.html",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\8tp2s94mak-p0vsv4xayi.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\8tp2s94mak-p0vsv4xayi.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -243,7 +243,7 @@
     },
     {
       "Route": "Home.html",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Home.html",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\Home.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -280,7 +280,7 @@
     },
     {
       "Route": "Home.html.gz",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\8tp2s94mak-p0vsv4xayi.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\8tp2s94mak-p0vsv4xayi.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -325,7 +325,7 @@
     },
     {
       "Route": "Home.js",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\n804u8jfsy-ngb7204rge.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\n804u8jfsy-ngb7204rge.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -380,7 +380,7 @@
     },
     {
       "Route": "Home.js",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Home.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\Home.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -417,7 +417,7 @@
     },
     {
       "Route": "Home.js.gz",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\n804u8jfsy-ngb7204rge.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\n804u8jfsy-ngb7204rge.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -462,7 +462,7 @@
     },
     {
       "Route": "Home.ngb7204rge.js",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\n804u8jfsy-ngb7204rge.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\n804u8jfsy-ngb7204rge.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -525,7 +525,7 @@
     },
     {
       "Route": "Home.ngb7204rge.js",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Home.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\Home.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -570,7 +570,7 @@
     },
     {
       "Route": "Home.ngb7204rge.js.gz",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\n804u8jfsy-ngb7204rge.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\n804u8jfsy-ngb7204rge.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -623,7 +623,7 @@
     },
     {
       "Route": "Home.p0vsv4xayi.html",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\8tp2s94mak-p0vsv4xayi.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\8tp2s94mak-p0vsv4xayi.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -686,7 +686,7 @@
     },
     {
       "Route": "Home.p0vsv4xayi.html",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Home.html",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\Home.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -731,7 +731,7 @@
     },
     {
       "Route": "Home.p0vsv4xayi.html.gz",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\8tp2s94mak-p0vsv4xayi.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\8tp2s94mak-p0vsv4xayi.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -784,7 +784,7 @@
     },
     {
       "Route": "Update.4scld3d0gc.html",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\i73xefh3pz-4scld3d0gc.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\i73xefh3pz-4scld3d0gc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -847,7 +847,7 @@
     },
     {
       "Route": "Update.4scld3d0gc.html",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Update.html",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\Update.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -892,7 +892,7 @@
     },
     {
       "Route": "Update.4scld3d0gc.html.gz",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\i73xefh3pz-4scld3d0gc.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\i73xefh3pz-4scld3d0gc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -945,7 +945,7 @@
     },
     {
       "Route": "Update.html",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\i73xefh3pz-4scld3d0gc.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\i73xefh3pz-4scld3d0gc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1000,7 +1000,7 @@
     },
     {
       "Route": "Update.html",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Update.html",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\Update.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1037,7 +1037,7 @@
     },
     {
       "Route": "Update.html.gz",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\i73xefh3pz-4scld3d0gc.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\i73xefh3pz-4scld3d0gc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1082,12 +1082,12 @@
     },
     {
       "Route": "Update.js",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\2q16ecgxxw-pw5dq3vsad.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\2q16ecgxxw-rh7ogy033a.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001672240803"
+          "Quality": "0.001669449082"
         }
       ],
       "ResponseHeaders": [
@@ -1097,15 +1097,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "597"
+          "Value": "598"
         },
         {
           "Name": "ETag",
-          "Value": "\"qdJOeut/6ENaI3L1q1FvbyMo0TVSO5Dt7QQYbm9GmMo=\""
+          "Value": "\"ot81BfHeO9lmojdVyaNO3Fl1v1z4vYLPjSNOfjuUzdU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 20:02:40 GMT"
+          "Value": "Mon, 27 Oct 2025 20:23:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1125,19 +1125,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KZWDpRiA69sNziFNPd2oc8wfKTiLUtHwh1Xqi46DKtw=\""
+          "Value": "W/\"ESwFuZie/P+g5IxmRxb/QqscUp3G4I4qoRucVlt8oUY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KZWDpRiA69sNziFNPd2oc8wfKTiLUtHwh1Xqi46DKtw="
+          "Value": "sha256-ESwFuZie/P+g5IxmRxb/QqscUp3G4I4qoRucVlt8oUY="
         }
       ]
     },
     {
       "Route": "Update.js",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Update.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\Update.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1146,7 +1146,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1253"
+          "Value": "1255"
         },
         {
           "Name": "Content-Type",
@@ -1154,11 +1154,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KZWDpRiA69sNziFNPd2oc8wfKTiLUtHwh1Xqi46DKtw=\""
+          "Value": "\"ESwFuZie/P+g5IxmRxb/QqscUp3G4I4qoRucVlt8oUY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 20:02:40 GMT"
+          "Value": "Mon, 27 Oct 2025 20:23:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1168,13 +1168,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KZWDpRiA69sNziFNPd2oc8wfKTiLUtHwh1Xqi46DKtw="
+          "Value": "sha256-ESwFuZie/P+g5IxmRxb/QqscUp3G4I4qoRucVlt8oUY="
         }
       ]
     },
     {
       "Route": "Update.js.gz",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\2q16ecgxxw-pw5dq3vsad.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\2q16ecgxxw-rh7ogy033a.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1183,7 +1183,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "597"
+          "Value": "598"
         },
         {
           "Name": "Content-Type",
@@ -1191,11 +1191,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qdJOeut/6ENaI3L1q1FvbyMo0TVSO5Dt7QQYbm9GmMo=\""
+          "Value": "\"ot81BfHeO9lmojdVyaNO3Fl1v1z4vYLPjSNOfjuUzdU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 20:02:40 GMT"
+          "Value": "Mon, 27 Oct 2025 20:23:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1213,18 +1213,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qdJOeut/6ENaI3L1q1FvbyMo0TVSO5Dt7QQYbm9GmMo="
+          "Value": "sha256-ot81BfHeO9lmojdVyaNO3Fl1v1z4vYLPjSNOfjuUzdU="
         }
       ]
     },
     {
-      "Route": "Update.pw5dq3vsad.js",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\2q16ecgxxw-pw5dq3vsad.gz",
+      "Route": "Update.rh7ogy033a.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\2q16ecgxxw-rh7ogy033a.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001672240803"
+          "Quality": "0.001669449082"
         }
       ],
       "ResponseHeaders": [
@@ -1234,15 +1234,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "597"
+          "Value": "598"
         },
         {
           "Name": "ETag",
-          "Value": "\"qdJOeut/6ENaI3L1q1FvbyMo0TVSO5Dt7QQYbm9GmMo=\""
+          "Value": "\"ot81BfHeO9lmojdVyaNO3Fl1v1z4vYLPjSNOfjuUzdU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 20:02:40 GMT"
+          "Value": "Mon, 27 Oct 2025 20:23:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1262,13 +1262,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KZWDpRiA69sNziFNPd2oc8wfKTiLUtHwh1Xqi46DKtw=\""
+          "Value": "W/\"ESwFuZie/P+g5IxmRxb/QqscUp3G4I4qoRucVlt8oUY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pw5dq3vsad"
+          "Value": "rh7ogy033a"
         },
         {
           "Name": "label",
@@ -1276,13 +1276,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KZWDpRiA69sNziFNPd2oc8wfKTiLUtHwh1Xqi46DKtw="
+          "Value": "sha256-ESwFuZie/P+g5IxmRxb/QqscUp3G4I4qoRucVlt8oUY="
         }
       ]
     },
     {
-      "Route": "Update.pw5dq3vsad.js",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\wwwroot\\Update.js",
+      "Route": "Update.rh7ogy033a.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\wwwroot\\Update.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1291,7 +1291,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1253"
+          "Value": "1255"
         },
         {
           "Name": "Content-Type",
@@ -1299,11 +1299,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KZWDpRiA69sNziFNPd2oc8wfKTiLUtHwh1Xqi46DKtw=\""
+          "Value": "\"ESwFuZie/P+g5IxmRxb/QqscUp3G4I4qoRucVlt8oUY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 20:02:40 GMT"
+          "Value": "Mon, 27 Oct 2025 20:23:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1313,7 +1313,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pw5dq3vsad"
+          "Value": "rh7ogy033a"
         },
         {
           "Name": "label",
@@ -1321,13 +1321,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KZWDpRiA69sNziFNPd2oc8wfKTiLUtHwh1Xqi46DKtw="
+          "Value": "sha256-ESwFuZie/P+g5IxmRxb/QqscUp3G4I4qoRucVlt8oUY="
         }
       ]
     },
     {
-      "Route": "Update.pw5dq3vsad.js.gz",
-      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\2q16ecgxxw-pw5dq3vsad.gz",
+      "Route": "Update.rh7ogy033a.js.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\WebApiShop\\WebApiShop\\obj\\Debug\\net9.0\\compressed\\2q16ecgxxw-rh7ogy033a.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1336,7 +1336,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "597"
+          "Value": "598"
         },
         {
           "Name": "Content-Type",
@@ -1344,11 +1344,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qdJOeut/6ENaI3L1q1FvbyMo0TVSO5Dt7QQYbm9GmMo=\""
+          "Value": "\"ot81BfHeO9lmojdVyaNO3Fl1v1z4vYLPjSNOfjuUzdU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 20:02:40 GMT"
+          "Value": "Mon, 27 Oct 2025 20:23:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1366,7 +1366,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pw5dq3vsad"
+          "Value": "rh7ogy033a"
         },
         {
           "Name": "label",
@@ -1374,7 +1374,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qdJOeut/6ENaI3L1q1FvbyMo0TVSO5Dt7QQYbm9GmMo="
+          "Value": "sha256-ot81BfHeO9lmojdVyaNO3Fl1v1z4vYLPjSNOfjuUzdU="
         }
       ]
     }

@@ -10,8 +10,7 @@ namespace WebApiShop.Controllers
     [ApiController]
     public class UsersController : ControllerBase
     {
-        string _filePath = "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\lesson4\\data.txt";
-
+        string _filePath = "C:\\Users\\User\\Desktop\\לימודים\\יד\\web-api\\API_project\\data.txt";
         // GET: api/<UsersController>
         [HttpGet]
         public IEnumerable<string> Get()

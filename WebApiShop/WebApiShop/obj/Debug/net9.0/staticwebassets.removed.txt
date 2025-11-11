@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\לימודים\יד\web-api\lesson4\WebApiShop\WebApiShop\wwwroot\Update.js
+C:\Users\User\Desktop\לימודים\יד\web-api\lesson4\WebApiShop\WebApiShop\wwwroot\Home.html
+C:\Users\User\Desktop\לימודים\יד\web-api\lesson4\WebApiShop\WebApiShop\wwwroot\Update.html
+C:\Users\User\Desktop\לימודים\יד\web-api\lesson4\WebApiShop\WebApiShop\wwwroot\Home.js
